@@ -29,7 +29,7 @@ let newFriendArray = friends.map((value) =>{
 
 console.log(newFriendArray)
 
-// -----------------------mixed type array -----------------
+// -----------------------mixed type array = union types -----------------
 
 let mixed: (string | number)[];
 

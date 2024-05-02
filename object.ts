@@ -1,3 +1,6 @@
+
+
+
 let student:{
     name: string,
     address: string,
